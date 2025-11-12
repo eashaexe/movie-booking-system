@@ -1,0 +1,22 @@
+{
+    "Interstellar": {
+        "booked_seats": [
+            "B2",
+            "E3",
+            "E5"
+        ],
+        "tickets": [
+            {
+                "ticket_id": "T9669",
+                "name": "eashitha",
+                "movie": "Interstellar",
+                "seats": [
+                    "B2",
+                    "E3",
+                    "E5"
+                ],
+                "showtime": "2025-11-12 09:41:34"
+            }
+        ]
+    }
+}
