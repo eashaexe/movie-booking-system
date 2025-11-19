@@ -1,4 +1,4 @@
-import random
+ import random
 from datetime import datetime, timedelta
 from utils import format_datetime
 
@@ -21,3 +21,5 @@ def create_ticket(name, movie, seats):
         "showtime": format_datetime(showtime),
         "expires_in_minutes": TICKET_VALIDITY_MINUTES
     }
+
+# --- REMEMBER TO SAVE THIS FILE! ---
