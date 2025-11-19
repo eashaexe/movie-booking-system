@@ -128,4 +128,3 @@ class BookingPage:
         tk.Label(self.root, text=f"Showtime: {self.selected_time.get()}", font=("Arial", 12)).pack(pady=5)
 
         ttk.Button(self.root, text="🏠 Back to Main Menu", command=self.go_back).pack(pady=15)
-
